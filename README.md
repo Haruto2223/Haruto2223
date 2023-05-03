@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haruto2223
-- 👀 I’m interested in Javascript Web Development
+- 👀 I’m proficient in almost all of Javascript Web Development including React, Vue, Angular, Next, Svelte, Express and NestJS
 - 💞️ I’m currently working as a freelancer
 - ✉ ringbell430@gmail.com
 
