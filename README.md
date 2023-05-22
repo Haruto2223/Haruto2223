@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haruto2223
-- 👀 I’m proficient in almost all of Javascript frameworks including React, Vue, Angular, Next, Svelte, Express and NestJS
+- 👀 I’m proficient in all of Javascript frameworks including React, Vue, Angular, Next, Svelte, Express and NestJS
 - 💞️ I’m currently working as a freelancer
 - ✉ ringbell430@gmail.com
 
